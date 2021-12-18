@@ -1,5 +1,5 @@
 ###  Hi! I'm takumi👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi0703&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi0703&show_icons=true&theme=onedark)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takumi0703&theme=onedark&column=7
