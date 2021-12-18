@@ -1,6 +1,6 @@
 ###  Hi! I'm takumi👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi0703&show_icons=true&theme=tokyonight)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumi0703&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=takumi0703&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
