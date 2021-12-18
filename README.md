@@ -1,8 +1,8 @@
 ###  Hi! I'm takumi👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi0703&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumi0703&show_icons=true&theme=tokyonight)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=takumi0703&theme=onedark&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=takumi0703&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **takumi0703/takumi0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
