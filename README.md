@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋, I'm o10969</h1>
 
 <p align="left">
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
