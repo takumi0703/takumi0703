@@ -1,5 +1,8 @@
 # Backend Developer in Japan👋
+[![typograssy](https://typograssy.deno.dev/api?text=Be%20Lazy)](https://github.com/kawarimidoll/typograssy)
+
 Just 24 years old
+
 <p align="left">
    <a href="https://github.com/takumi0703">
     <img height="20" src="https://komarev.com/ghpvc/?username=takumi0703" />
@@ -25,8 +28,6 @@ Just 24 years old
 
 # NOW TRAINING
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,unity,go&theme=light)](https://skillicons.dev)
-
-[![typograssy](https://typograssy.deno.dev/api?text=Be%20Lazy!)](https://github.com/kawarimidoll/typograssy)
 
 ![](https://raw.githubusercontent.com/takumi0703/next-sample/output/github-contribution-grid-snake.svg)
 
