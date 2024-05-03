@@ -1,6 +1,9 @@
 # Backend Developer in Japan👋
 ## Just 24 years old
 <p align="left">
+   <a href="https://github.com/takumi0703">
+    <img height="20" src="https://komarev.com/ghpvc/?username=takumi0703" />
+  </a>
   <a href="https://zenn.dev/eng_o109">
     <img height="20" src="https://badgen.org/img/zenn/eng_o109/articles?style=plastic" />
   </a>
