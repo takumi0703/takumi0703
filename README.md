@@ -23,3 +23,4 @@
 # NOW TRAINING
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,unity,go&theme=light)](https://skillicons.dev)
 
+![](https://raw.githubusercontent.com/takumi0703/next-sample/output/github-contribution-grid-snake.svg)
