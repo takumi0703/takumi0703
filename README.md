@@ -28,6 +28,7 @@ Just 24 years old
 # NOW TRAINING
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,unity,go&theme=light)](https://skillicons.dev)
 
+# MY FAVORITE WORD
 [![typograssy](https://typograssy.deno.dev/api?text=Be%20Lazy)](https://github.com/kawarimidoll/typograssy)
 
 ![](https://raw.githubusercontent.com/takumi0703/next-sample/output/github-contribution-grid-snake.svg)
