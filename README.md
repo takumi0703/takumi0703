@@ -29,6 +29,7 @@ Just 24 years old
 [![My Skills](https://skillicons.dev/icons?i=react,next,ts,unity,go&theme=light)](https://skillicons.dev)
 
 ## MY FAVORITE WORD
+最小工数で、最大のインパクトを生み出す
 [![typograssy](https://typograssy.deno.dev/api?text=Be%20Lazy)](https://github.com/kawarimidoll/typograssy)
 
 ## 16personalities
