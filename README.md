@@ -26,7 +26,7 @@ Just 24 years old
 
 
 # NOW TRAINING
-[![My Skills](https://skillicons.dev/icons?i=react,next,ts,unity,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts,flutter&theme=light)](https://skillicons.dev)
 
 ## MY FAVORITE WORD
 最小工数で、最大のインパクトを生み出す
