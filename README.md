@@ -1,7 +1,5 @@
 # Backend Developer in Japan👋
 
-Just 24 years old
-
 <p align="left">
    <a href="https://github.com/takumi0703">
     <img height="20" src="https://komarev.com/ghpvc/?username=takumi0703" />
@@ -31,9 +29,5 @@ Just 24 years old
 ## MY FAVORITE WORD
 最小工数で、最大のインパクトを生み出す
 [![typograssy](https://typograssy.deno.dev/api?text=Be%20Lazy)](https://github.com/kawarimidoll/typograssy)
-
-## 16personalities
-![スクリーンショット 2024-05-27 15 24 32](https://github.com/takumi0703/takumi0703/assets/61904132/b04e3134-f649-4029-ab0c-f17c85c918aa)
-
 
 ![](https://raw.githubusercontent.com/takumi0703/next-sample/output/github-contribution-grid-snake.svg)
